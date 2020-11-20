@@ -27,9 +27,9 @@ So that's it for now, hope it may be of use!
 
 - Richard O. Duda and Peter E. Hart (1972). Use of the Hough Transformation to detect lines and curves in pictures. Graphics and Image Processing 15 
 
-https://livecodestream.dev/post/2020-05-26-hough-transformation/
+- https://livecodestream.dev/post/2020-05-26-hough-transformation/
 
-https://www.learnopencv.com/homography-examples-using-opencv-python-c/
+- https://www.learnopencv.com/homography-examples-using-opencv-python-c/
 
 
 
