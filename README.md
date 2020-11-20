@@ -6,7 +6,7 @@ The program takes a video, divides into frames, aligns the frames and then using
 
 ## Gif without homography
 
-![](Gif_Sin Homografia.gif)
+![](Gif_Sin_Homografia.gif)
 
 
 ## Gif with homography applied
